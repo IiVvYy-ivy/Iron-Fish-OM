@@ -37,3 +37,5 @@ ironfish
 
 #### If you see your terminal like this, you install ironfish successfully!
 
+![](https://github.com/IiVvYy-ivy/Iron-Fish-OM/blob/main/Images/ironfish_install_success.png)
+
