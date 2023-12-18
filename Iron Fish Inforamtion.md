@@ -5,6 +5,7 @@ Phase 3 must be run a node. This is NOW in PHASE 3.
 1.Wallet
   Used to send and receive $IRON
   Supported_Wallet: FoxWallet, Node App, Standalone Wallet
+
 2.Mining Blocks
   Mining used to earn $IRON
   
