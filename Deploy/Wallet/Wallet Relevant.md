@@ -6,7 +6,7 @@ ironfish wallet:create **<wallet_account_name>**
 
 #### If you can see your terminal like this after you execute command above, you may create an account successfully!
 
-
+![](https://github.com/IiVvYy-ivy/Iron-Fish-OM/blob/main/Images/create_wallet_success.png)
 
 ## Know which account you use now
 
